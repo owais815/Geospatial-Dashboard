@@ -32,5 +32,9 @@
 		"mocha": "^10.0.0",
 		"nodemon": "^2.0.19",
 		"supertest": "^6.2.4"
+	},
+	"overrides": {
+		"semver": "^7.5.2",
+		"serialize-javascript": "^7.0.5"
 	}
 }
