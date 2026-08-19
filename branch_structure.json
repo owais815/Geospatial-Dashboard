@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/geospatial-dashboard/client/word-wrap-1.2.5",
+    "main",
+    "overwrite-main"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/geospatial-dashboard/client/word-wrap-1.2.5": "main",
+    "main": null,
+    "overwrite-main": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/geospatial-dashboard/client/word-wrap-1.2.5",
+    "overwrite-main"
+  ]
+}

@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.9",
     "leaflet": "^1.8.0",
     "leaflet-routing-machine": "^3.2.12",
     "react": "^18.0.0",
@@ -15,13 +16,22 @@
     "react-select": "^5.4.0",
     "react-tabs": "^5.1.0",
     "styled-components": "^5.3.5",
-    "uuid": "^8.3.2"
+    "uuid": "^11.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "overrides": {
+    "nth-check": "^2.1.1",
+    "postcss": "^8.5.26",
+    "serialize-javascript": "^7.1.0",
+    "uuid": "^11.1.1",
+    "@tootallnate/once": "^2.0.1",
+    "svgo": "^2.8.3",
+    "webpack-dev-server": "^5.2.6"
   },
   "eslintConfig": {
     "extends": [
